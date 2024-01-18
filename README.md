@@ -5,7 +5,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Mechanical Engineer 
 
-https://aws.amazon.com/free/?gclid=CjwKCAiAkp6tBhB5EiwANTCx1M1Il22TTGDya2wlbX32sULDNU_lRrcHERGNVSK69kruTy2KMPAxDxoCZqEQAvD_BwE&trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=CjwKCAiAkp6tBhB5EiwANTCx1M1Il22TTGDya2wlbX32sULDNU_lRrcHERGNVSK69kruTy2KMPAxDxoCZqEQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+https://aws.amazon.com/?nc2=h_lg
 
 
 
