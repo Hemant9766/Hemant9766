@@ -5,9 +5,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Mechanical Engineer 
 
-
-![image](https://github.com/Hemant9766/Hemant9766/assets/124518606/e34a97c4-f270-44e2-83bc-ff4f724c8b42)
-
+https://aws.amazon.com/free/?gclid=CjwKCAiAkp6tBhB5EiwANTCx1M1Il22TTGDya2wlbX32sULDNU_lRrcHERGNVSK69kruTy2KMPAxDxoCZqEQAvD_BwE&trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=CjwKCAiAkp6tBhB5EiwANTCx1M1Il22TTGDya2wlbX32sULDNU_lRrcHERGNVSK69kruTy2KMPAxDxoCZqEQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
 
 
 
