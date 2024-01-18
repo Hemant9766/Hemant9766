@@ -5,7 +5,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Mechanical Engineer 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2023%2F04%2F04%2Faws-generative-ai-accelerator%2F&psig=AOvVaw08a5OJ5JV4kSny2yCjxAlv&ust=1705647888972000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDBpdev5oMDFQAAAAAdAAAAABAI
+https://camo.githubusercontent.com/b6524610b20a6c5a219ba2b9a18cf5f3065f8a886fa9ddc831a9ca1626d72490/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562
 
 
 
