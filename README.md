@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Hemant
 - 👀 I’m interested in Automations
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently DevOps Engineer 
 - 📫 How to reach me: harelhemant@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Mechanical Engineer 
 
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
